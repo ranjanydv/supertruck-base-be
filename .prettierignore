@@ -1,0 +1,4 @@
+migrations/
+*-spec.ts
+*.spec.ts
+*.test.ts

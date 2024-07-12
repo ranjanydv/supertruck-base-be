@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "supertruck-32f11",
+  "private_key_id": "dfb5e9a8b0e9283c94c8e1a93dc83933194afcd4",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDK4K5V5AfLO+7J\n2Mucr4MPLT3zgAgS/cXltUD/M80UU3GxXqxaZN2tn8XuaPvIe/FOjtI2yTAtogPq\n4fU53n39SGJGhiiC4Pz/8jGDfmm5DblpFj5332zJ3QoN97WvHQqGKeAQlooHJMXD\nDozzD35z961nZelol/qI//nOJO+S6gI/naNhAW0l7ihzeC9HrBeUru7LCFhFogds\nXagfN7P/QAvWoBzPjSB1fbKKy3Vvj/TU4jicAfAXqG6X66GrbWNcsrLJ6gca7/GP\nLAE+N/xzqsIGJPMkCtt8+hTYa6il42oytLDgklQ7Ok34HW61S1R9Bn7EgTCifXKb\n5uf0LKohAgMBAAECggEAC4rjoFNhoM3UyiXMKn/52ZUzXx/mVbOb3MkxMikvqSZj\njjnasyc7TYjiPqw5FwZQ4QKohyFvMklze5ubfiK10avv8Mnqks0GLUcJoMztFZro\nSkhPtDZBVELVMvI9o1boUGB1ima7jP3UmpfAq9uH0EVD17bT+XVxdaCgBSXTfkI5\nbFiuv8fh17JXxn4jUrtuMH3rTbzADT6CfxYQA6tLeey+F+c98S8rkhWBoeEc6Uqd\nXXOBxScCc/uaO3sPaas773jH8jTa8Knl74DCp6ZKCN1VeCgToy20dRlMQs2GaShh\nbDCjrrLVxwRDpfRXmww9Suda5/fZpuHdQ6dY1Pyl+QKBgQD2r/EXbMA3f7REW6NY\nuhNPzKczieBkAcGPPalFhHHd0UmV41vmYBWvHLu5uFiOmnHH8TLTrTjM/cr3NOMw\n6PJX3hnVJxkwYf8+h4PRqqcczO0bxlOlM63wgw9vnWZD5/E4drb5Eq3iGj9Yb0/q\nLVBBggdHiKftS8C/lfs6SKQbAwKBgQDSiVmru8ZuNL7wcJaZ+8NI3MHaODoYGsf/\n4H0QO/tPhxCYU3pe9a8MkDRf2aErDM79yTcRlVclu8FNVwsr0tKKmWpymab4fTJX\nHbeCKnSbyNaSa2ChELkI/jCsjA0jGsMZ8JQKVHiHmxiHEp8W/v9Oua6rxMp1i66j\nLGsSqjIrCwKBgQChDOiXZHZxRTxJTJJuAL1O4ctfCGqon8TgYV87dWZpbJNf+dkr\npBtEAbxFWabnIsmZwUxvia2Fl0OE9NBGRC7DUssGr8nwHmpnRk22+nSzhs5dzbMa\nLY0nckkHk3kKaEjBli+KmLlQ3dXxRGql9gNpYRyjhQItF8G00pP7zyTkRQKBgDDZ\nWYr1KJdNebgEB4120trHDdt6DFCndhwylBH+ONM8/Wa6h7wcuR7rHpvWvQRmFmjg\nFPzpb6z7oWA2gAsNAXjTG9W3PPyO3+1Cod97xk6XDOIwM91rKeOiRtziKfIpNXeB\nUHgNHWIpZEmC0pLdW5OClbqZEHixjjWiCr3r63P9AoGALbY9OloAQ+tnBdp0DCIl\nkjub814mvvJjNImyxu1ctuo0SAF1NTYCbFXZvHBpO37l8WvWuquwaEqnA0zSCyUX\nW3zPBAtoKIXG0BPzBP2J0j0Epyp2+gBX2aIvsUAIoFZAgyTMo9TzdZdmWwhoBTxc\nIrvoAkVlAzA3jVMB3EXM6tE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-74gy8@supertruck-32f11.iame.gsrviceaccount.com",
+  "client_id": "104501912944058173079",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-74gy8%40supertruck-32f11.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
